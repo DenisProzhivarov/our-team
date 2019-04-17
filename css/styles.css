@@ -441,6 +441,7 @@ body {
     flex-basis: 50%;
     border-right: 1px solid #ffcc00; }
   .profile__border {
+    font-size: 0;
     margin: 10px;
     position: absolute;
     top: 50%;
